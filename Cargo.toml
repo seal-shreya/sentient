@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "sentient-api",
+    "sentient-ingestion",
+    "sentient-core",
+]
+resolver = "2"
